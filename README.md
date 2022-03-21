@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @frustrabe
-- 👀 I’m interested in anything interesting.
+- 👀 I’m interested in Web Dev.
 - 🌱 I’m currently learning Front-End & Back-End Development
-- 💞️ I’m looking to collaborate on anything.
+- 💞️ I’m looking for collaboration/Internship.
 - 📫 How to reach me - lukas.forner@gmail.com
 
 <!---
