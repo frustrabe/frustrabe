@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @frustrabe
-- 👀 I’m interested in Web Dev.
-- 🌱 I’m learning Front-End & Back-End Development (currently on React.js)
-- 💞️ I’m looking for : Collaborations/Internships.
-- 📫 How to reach me - lukas.forner@gmail.com
-- 🔗 My first exercise app using React   
-- frustrabe.github.io/robots/
+- 👋 hi, i’m @frustrabe
+- 👀 i’m interested in Web Dev.
+- 🌱 i’m learning Front-End & Back-End Development (currently on React.js)
+- 💞️ i’m looking for : collaborations/Internships.
+- 📫 how to reach me - lukas.forner@gmail.com
+- 🔗 my first exercise app using React   
+- frustrabe.github.io/robots/ - my
 
 <!---
 frustrabe/frustrabe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
