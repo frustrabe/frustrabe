@@ -1,6 +1,6 @@
 - 👋 hi, i’m @frustrabe
 - 👀 i’m interested in Web Dev.
-- 🌱 i’m learning Front-End & Back-End Development (currently on React.js)
+- 🌱 i’m learning Front-End & Back-End Development (currently on React Native)
 - 💞️ i’m looking for : collaborations/Internships.
 - 📫 how to reach me - lukas.forner@gmail.com
 - 🔗 my first exercise app using React --- frustrabe.github.io/robots/ ---
