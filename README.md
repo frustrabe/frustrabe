@@ -1,4 +1,4 @@
-- 👋 hi, i’m @frustrabe
+- 👋 hi, i’m Lukas (@frustrabe)
 - 👀 i’m interested in Web Dev.
 - 🌱 i’m learning Front-End & Back-End Development (currently on React Native)
 - 💞️ i’m looking for : collaborations/Internships.
