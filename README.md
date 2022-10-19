@@ -1,5 +1,5 @@
 - 👋 hi, i’m Lukas (@frustrabe)
-- 👀 i’m interested in Web Dev.
+- 👀 i’m interested in JavaScript.
 - 🌱 i’m studying Web Development
 - 💞️ i’m looking for : collaborations/Internships.
 - 📫 how to reach me - lukas.forner@gmail.com
