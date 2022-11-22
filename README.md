@@ -1,4 +1,4 @@
-- 👋 hi, i’m Lukas (@frustrabe)
+- 👋 hi, i’m Lukas
 - 👀 i’m interested in JavaScript.
 - 🌱 i’m studying Web Development
 - 💞️ i’m looking for : collaborations/Internships.
