@@ -4,7 +4,9 @@
 - 💞️ i’m looking for : internship.
 - 📫 how to reach me - lukas.forner@gmail.com
 - 🔗 my first (May 2022) messaging app exercise using React Native --- frustrabe.github.io/robots/ ---
-- 🔗 our groups first semester project app (December 2022) for amateur music ensamble musiscians using React and Typescript --- emiliekure.github.io/daos/ ---
+- 🔗 first semester group project (December 2022) for amateur ensamble musiscians using:
+     Front-end - React & Typescript 
+     Back-end & Database - NestJS & MongoDB --- emiliekure.github.io/daos/ ---
 
 
 <!---
