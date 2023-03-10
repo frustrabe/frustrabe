@@ -3,12 +3,12 @@
 - 🌱 currently studying 2nd semester Web Development at Cphbusiness Lyngby
 - 💞️ i’m looking for : internship.
 - 📫 how to reach me - lukas.forner@gmail.com
--    my first (May 2022) messaging app exercise using React Native 
+-    my first messaging app exercise using React Native (May 2022)
 - 🔗 frustrabe.github.io/robots/
--    first semester group project (December 2022) for amateur ensamble musiscians using:
--    Front-end - React & Typescript 
--    Back-end & Database - NestJS & MongoDB 
-- 🔗 emiliekure.github.io/daos/
+-    first semester group project for amateur ensamble musiscians using:
+  -    Front-end - React & Typescript 
+  -    Back-end & Database - NestJS & MongoDB 
+  - 🔗 emiliekure.github.io/daos/
 
 
 <!---
