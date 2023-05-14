@@ -5,7 +5,7 @@
 - 📫 how to reach me - lukas.forner@gmail.com
 - 🌐 https://fornerlukas.com/
 -    my first messaging app exercise using React Native (May 2022)
-- 🔗 frustrabe.github.io/robots/
+- 🔗 https://github.com/frustrabe/chatrooms-native
 -    first semester group project for amateur ensamble musiscians (December 2022) using:
 -    *Front-End - React & Typescript*
 -    *Back-End & Database - NestJS & MongoDB*
