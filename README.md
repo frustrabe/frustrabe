@@ -13,8 +13,6 @@
 -    *Back-End & Database - NestJS & MongoDB*
 -    *dockerized version (April 2023)*
 - 🔗 https://github.com/frustrabe/devOps-daos.git
-
-
 <!---
 frustrabe/frustrabe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
