@@ -1,15 +1,17 @@
 - 👋 hi, i’m Lukas
 - 👀 i’m interested in Full Stack Development.
-- 🌱 currently studying 2nd semester Web Development at Cphbusiness Lyngby
-- 💞️ i’m looking for : internship.
+- 🌱 currently studying Web Development at Cphbusiness Lyngby
+- 💞️ i’m looking for : Internship
 - 📫 how to reach me - lukas.forner@gmail.com
 - 🌐 https://fornerlukas.com/
--    my first messaging app exercise using React Native (May 2022)
+-    my first mobile messaging app project (May 2022) using 
+     *Front-End - React Native*
+     *Database - Firebase*
 - 🔗 https://github.com/frustrabe/chatrooms-native
 -    first semester group project for amateur ensamble musiscians (December 2022) using:
 -    *Front-End - React & Typescript*
 -    *Back-End & Database - NestJS & MongoDB*
--    - *dockerized version (April*
+-    *dockerized version (April 2023)*
 - 🔗 https://github.com/frustrabe/devOps-daos.git
 
 
