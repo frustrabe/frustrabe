@@ -6,9 +6,9 @@
    
    🔎   i’m currently looking for : _Internship_
    
-### 📫   _lukas.forner@gmail.com_
+### 📫   lukas.forner@gmail.com
 
-### 🌐   _[portfolio]_(https://fornerlukas.com/)
+### 🌐   [portfolio](https://fornerlukas.com/)
 
 ##  first mobile messaging app (May 2022)
 -    React Native
