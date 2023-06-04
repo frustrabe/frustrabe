@@ -8,7 +8,7 @@
    
 ### 📫   _lukas.forner@gmail.com_
 
-### 🌐   [portfolio](https://fornerlukas.com/)
+### 🌐   _[portfolio](https://fornerlukas.com/)
 
 ##  first mobile messaging app (May 2022)
 -    React Native
