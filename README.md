@@ -10,18 +10,18 @@
 
 ### 🌐   [portfolio](https://fornerlukas.com/)
 
-##  first mobile messaging app (May 2022) using 
+##  first mobile messaging app (May 2022)
 -    React Native
 -    Firebase
 ## 🔗 [GitHub repository](https://github.com/frustrabe/chatrooms-native)
 
-##  first semester group project for amateur ensamble musiscians (December 2022) using:
+##  first semester group project for amateur ensamble musiscians (December 2022)
 -    Frontend - React & Typescript
 -    Backend & Database - NestJS & MongoDB
 -    *dockerized version (April 2023)*
 ## 🔗 [GitHub repository](https://github.com/frustrabe/devOps-daos.git)
 
-##  second semester group project - FullStack mobile housing app (May 2023) using:
+##  second semester group project - FullStack mobile housing app (May 2023)
 -    Frontend - React Native & Typescript
 -    Back-End & Database - NestJS & PostgreSQL (TypeORM, ngrok)
 ## 🔗 [GitHub repository](https://github.com/frustrabe/domea)
