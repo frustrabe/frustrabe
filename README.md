@@ -23,7 +23,7 @@
 
 ##  second semester group project - FullStack mobile housing app (May 2023)
 -    Frontend - React Native & Typescript
--    Back-End & Database - NestJS & PostgreSQL (TypeORM, ngrok)
+-    Back-End & Database - NestJS & PostgreSQL (TypeORM, Redux, ngrok)
 ## 🔗 [GitHub repository](https://github.com/frustrabe/domea)
 <!---
 frustrabe/frustrabe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
