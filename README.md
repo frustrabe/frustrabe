@@ -15,7 +15,7 @@
 -    Firebase
 ## 🔗 [GitHub repository](https://github.com/frustrabe/chatrooms-native)
 
-##  first semester group project for amateur ensamble musiscians (December 2022)
+##  first semester group project for amateur ensemble musicians (December 2022)
 -    Frontend - React & Typescript
 -    Backend & Database - NestJS & MongoDB
 -    *dockerized version (April 2023)*
