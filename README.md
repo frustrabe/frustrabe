@@ -4,7 +4,7 @@
    
    🎓   studying Web Development at Cphbusiness Lyngby
    
-   🔎   i’m currently looking for : _Internship_
+   🔎   i’m currently employed part-time as : _Junior Software Developer @ WARM ApS_
    
 ### 📫   lukas.forner@gmail.com
 
