@@ -1,6 +1,6 @@
 #       hi, i’m Lukas Forner 👋🏼
 
-   🎯   Full Stack Development.
+   🎯   Full Stack Development
    
    🎓   studying Web Development at Cphbusiness Lyngby
    
