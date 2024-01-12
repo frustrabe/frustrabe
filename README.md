@@ -4,7 +4,7 @@
    
    🎓   studying Web Development at Cphbusiness Lyngby
    
-   💻   employed part-time as : Junior Software Developer at _WARM ApS_
+   💻   employed part-time as : Junior Software Developer at [WARM ApS](https://www.warmmusic.net/)
 
    🔎   i’m currently searching for full-time employment
    
