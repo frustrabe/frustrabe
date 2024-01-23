@@ -14,9 +14,9 @@
 
 ##  fourth semester group project - FullStack Grant Application Portal (January 2024)
 -    Frontend - React & Typescript
-## 🔗 [GitHub repository](https://github.com/frustrabe/ApplicantPortal_Client)
+🔗 [GitHub repository](https://github.com/frustrabe/ApplicantPortal_Client)
 -    Back-End & Database - NestJS & PostgreSQL (TypeORM, Redux)
-## 🔗 [GitHub repository](https://github.com/frustrabe/ApplicantPortal_Server)
+🔗 [GitHub repository](https://github.com/frustrabe/ApplicantPortal_Server)
 
 
 ##  second semester group project - FullStack mobile housing app (May 2023)
