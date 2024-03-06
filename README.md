@@ -1,10 +1,10 @@
-#       hi, i’m Lukas Forner 👋🏼
+#       hi, i’m lukas forner 👋🏼
 
    🔎   currently searching for full-time employment
 
-   🎯   intersted in Full Stack Development
+   🎯   interested in full stack development
    
-   🎓   Bachelor of Web Development, Cphbusiness Lyngby
+   🎓   bachelor of web development, cphbusiness lyngby
    
    
 ### 📫   lukas.forner@gmail.com
