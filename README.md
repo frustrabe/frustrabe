@@ -1,12 +1,11 @@
 #       hi, i’m Lukas Forner 👋🏼
 
-   🎯   Full Stack Development
-   
-   🎓   studying Web Development at Cphbusiness Lyngby
-   
-   💻   employed part-time as : Junior Software Developer at [WARM ApS](https://www.warmmusic.net/)
+   🔎   currently searching for full-time employment
 
-   🔎   i’m currently searching for full-time employment
+   🎯   intersted in Full Stack Development
+   
+   🎓   Bachelor of Web Development, Cphbusiness Lyngby
+   
    
 ### 📫   lukas.forner@gmail.com
 
