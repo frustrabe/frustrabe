@@ -2,7 +2,7 @@
 
    🔎   currently searching for full-time employment
 
-   🎯   interested in full stack development
+   🎯   interested in software/web development
    
    🎓   bachelor of web development, cphbusiness lyngby
    
